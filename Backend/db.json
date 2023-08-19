@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "EO0I963u",
+      "FirstName": "Sunt accusantium in",
+      "LastName": "Aliquid incididunt c",
+      "Email": "sepez@mailinator.com",
+      "password": "$2b$10$k9hq6pkXcDsNacJmVEYYAecu4yZEdQc.5seLmdTRH1NQkIusvkDyC"
+    },
+    {
+      "id": "WBJgEe1W",
+      "FirstName": "Ahmed",
+      "LastName": "Ali",
+      "Email": "Ahmed@gmail.com",
+      "password": "$2b$10$koyKkVE3l2iX3LwbwnaTkOplGFVz.J5v0iTLeQbp9bAbRVxh83lcK"
+    },
+    {
+      "id": "BUqHylMl",
+      "FirstName": "f",
+      "LastName": "q",
+      "Email": "fq@gmail.com",
+      "password": "$2b$10$Iy8oZ9jWLq4eyaqYbK8xteO9j5TI5imnG/AyHhHvoCMbXoteXX1aS"
+    },
+    {
+      "id": "wqHe0ZwS",
+      "FirstName": "Al",
+      "LastName": "AL",
+      "Email": "Al@gmail.com",
+      "password": "$2b$10$ZmTdakwR2VzC5TOvnZC1juyQ80t905zoTngrHXDN6wLuqVR/ZjXoC"
+    },
+    {
+      "id": "LlBZdyxk",
+      "FirstName": "Farooq",
+      "LastName": "Khan",
+      "Email": "Farooq@gmail.com",
+      "password": "$2b$10$iPLAanC/zrdLzGDp23u/J.T.gBucekGsjrbp0iBHDm.msqo.yMFjS"
+    },
+    {
+      "id": "azYEWnvg",
+      "FirstName": "Khizer",
+      "LastName": "Khan",
+      "Email": "Khizer@gmail.com",
+      "password": "$2b$10$oLPUfF/7poNsfkdOZGP9v.NU2BFmIGZ7mE16WgqvFEKgLTmhsCAk."
+    },
+    {
+      "id": "7PUA6rQb",
+      "FirstName": "Alias vero nisi cons",
+      "LastName": "Ut harum voluptas en",
+      "Email": "qidijuzed@mailinator.com",
+      "password": "$2b$10$szEEwTX/15ON6DZngwoQNuP2Xmu1K0RAP3hHJoVdRJwlrLm/v3SKW"
+    },
+    {
+      "id": "cd0v5s9Q",
+      "FirstName": "Voluptate distinctio",
+      "LastName": "Sed ut cillum optio",
+      "Email": "nyqoqy@mailinator.com",
+      "password": "123456"
+    }
+  ],
+  "blogs": [
+    {
+      "userId": "LlBZdyxk",
+      "title": "Voluptas magna amet",
+      "description": "Amet reiciendis non",
+      "id": "fadd"
+    },
+    {
+      "userId": "LlBZdyxk",
+      "title": "Totam praesentium er",
+      "description": "Ad consectetur volu",
+      "id": "BwsZww0"
+    }
+  ]
+}
